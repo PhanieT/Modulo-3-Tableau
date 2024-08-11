@@ -7,7 +7,8 @@ Analizar la información de las ventas de 2020 a 2023 de una tienda.
 
 ### 1. El año de mejores ventas fue en el 2023
    
-![image](https://github.com/user-attachments/assets/a2c29f18-f7c6-44c8-bfea-02f20da61dbe)
+![image](https://github.com/user-attachments/assets/0204d086-6ad1-401c-b855-32335ddb7bea)
+
 
 ### 2.La categoria de Technology fue la más alta en ventas.
 
@@ -21,7 +22,6 @@ Analizar la información de las ventas de 2020 a 2023 de una tienda.
 ### 4.El estado con más ventas fue California.
 
 ![image](https://github.com/user-attachments/assets/a13a8652-0c92-4adc-b112-a2d2f7ab8713)
-
 
 
 ### 5.El mejor cliente de top 10 de clientes fue Sean Miller
